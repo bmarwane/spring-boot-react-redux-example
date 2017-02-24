@@ -11,7 +11,7 @@ $ mvn clean install
 
 #### run server first
 ```sh
-$ mvn clean install
+$ mvn spring-boot:run
 ```
 
 or by running Application class from your IDE.
